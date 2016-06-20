@@ -6,8 +6,7 @@
 
 * drawShape(C实现)	 [**用C语言实现画图**](https://github.com/junwei5di/20160331Demos.git)
 * drawShape(oc method2) [**用OC类的成员变量和对象方法画图**](https://github.com/junwei5di/20160331Demos3.git) 
-* drawShape(OC复合) [**
-用OC类的复合画图**](https://github.com/junwei5di/20160331Demos1.git)
+* drawShape(OC复合) [**用OC类的复合画图**](https://github.com/junwei5di/20160331Demos1.git)
 * drawShape(OC实现) [**用OC画图**](https://github.com/junwei5di/20160331Demos4.git)
 * OC-复合(@class和#import) [**OC类的复合时头文件的使用**](https://github.com/junwei5di/20160331Demos2.git)
 * OC-类方法和实例方法 [**OC的类方法和实例方法的写法与用法区别**](https://github.com/junwei5di/20160331Demos5.git)
@@ -51,9 +50,7 @@
 * OC-(copy/mutableCopy)[**OC-深浅拷贝**](https://github.com/Sjianye/OC-copy-muteCopy.git)
 * OC-多态+id类型[**OC-多态简单示例+id类型简述**](https://github.com/Sjianye/OC--id-Demo.git)
 * OC-非正式协议[**OC-非正式协议**](https://github.com/Sjianye/OC--.git)
-* OC-类别 (私有属性)[**OC-类别与私有属性**]()
-* OC-类别 001[****]()
-* OC-类别 002[****]()
+* OC-类别 (私有属性)[**OC-类别与私有属性(分三项+类别*2)**](https://github.com/Sjianye/-.git)
 
 ####20160411
 * OC-谓词[**OC-谓词**](https://github.com/qswxsii/OC-predicate.git)
@@ -67,85 +64,78 @@
 * OC-Block块[****]()
 
 ####20160414
-* OC-简单文件管理(NSFileManager)[****]()
-* OC-Block(协议实现注册登录)[****]()
-* OC-Block(Block实现注册登录)[****]()
-* OC-Block内存[****]()
-* OC-Block内存（ARC-看门狗）[****]()
-* OC-Block内存(MRC-看门狗)[****]()
+* OC-简单文件管理(NSFileManager)[**OC-简单文件管理(NSFileManager)**](https://github.com/CultureCheng/FileManger.git)
+* OC-Block(协议实现注册登录)[**OC-Block(协议实现注册登录)**](https://github.com/CultureCheng/Block.git)
+* OC-Block(Block实现注册登录)[**OC-Block(Block实现注册登录)**](https://github.com/CultureCheng/Block1.git)
+* OC-Block内存[**Block内存**](https://github.com/CultureCheng/block2.git)
+* OC-Block内存（ARC-看门狗）[**OC-Block内存（ARC-看门狗）**](https://github.com/CultureCheng/Block3.git)
+* OC-Block内存(MRC-看门狗)[**OC-Block内存(MRC-看门狗)**](https://github.com/CultureCheng/Block4.git)
 
 ####20160415
-* OC （串讲）-NSDate[****]()
-* OC 串讲 -（继承VS复合）[****]()
-* OC 串讲-（数值封装）[****]()
-* OC 串讲-（协议）[****]()
-* OC 串讲（类别VS扩展）[****]()
-* OC(串讲)-类方法+属性[****]()
+* OC （串讲）-NSDate[**OC （串讲）-NSDate**](https://github.com/CultureCheng/NSDate.git)
+* OC 串讲 -（继承VS复合）[**OC 串讲 -（继承VS复合）**](https://github.com/CultureCheng/subclass.git)
+* OC 串讲-（数值封装）[**OC 串讲-（数值封装）**]()
+* OC 串讲-（协议）[**OC 串讲-（协议）**](https://github.com/CultureCheng/xieyi.git
+)
+* OC 串讲（类别VS扩展）[**OC 串讲-（类别）**](https://github.com/CultureCheng/leibie.git)
+* OC(串讲)-类方法+属性[**OC(串讲)-类方法+属性**](https://github.com/CultureCheng/Status.git)
 
 
 ####20160416
-* 3.OC (串讲)-ARC[****]()
-* 4.OC (串讲)-Block[****]()
-* OC (串讲)-KVC&&懒加载[****]()
-* OC (串讲)-MRC+NSTimer[****]()
-* OC(串讲)-协议实现买票[****]()
+* 3.OC (串讲)-ARC[**OC —ARC**](https://github.com/NilZero/ARC.git)
+* 4.OC (串讲)-Block[**block回调、传值**](https://github.com/NilZero/Block.git)
+* OC (串讲)-KVC&&懒加载[**OC-KVC模式&&懒加载**](https://github.com/NilZero/KVC.git)
+* OC (串讲)-MRC+NSTimer[**MRC+NSTimer**](https://github.com/NilZero/MRC-NSTimer.git)
+* OC(串讲)-协议实现买票[**OC-协议实现买票流程**](https://github.com/NilZero/protocol.git)
 
 ####20160418
-* OC-门禁系统[****]()
+* OC-门禁系统[**OC-门禁系统**](https://github.com/huamelooon/OC-menjin-system.git)
 
 ####20160419
-* Copy&Strong[****]()
-* GitDemo[****]()
-* KVCDemo[****]()
+* Copy&Strong [**copy&strong**](https://github.com/ldpanda/copy-strong.git)
 
 ####20160421
-* git相关操作[****]()
+* git相关操作 [****]()
 
 ####20160422
-* rebase[****]()
-* TomCat[****]()
-* TomCat.git[****]()
+* TomCat[**Tom猫**](https://github.com/zhoukuangli/TomCat.git)
 
 ####20160425
-* 01-CalculatorDemo[****]()
-* 02-UIButtonDemo[****]()
+* 01-CalculatorDemo[**计算器操作**](https://github.com/xiaochao910218/CalculatorDemo.git)
+* 02-UIButtonDemo[**button的相关操作**](https://github.com/xiaochao910218/UIButtonDemo.git)
 
 ####20160426
-* 01-HelloWorldDemo[****]()
-* 02-UIViewDemo[****]()
-* 03-UIlabelDemo[****]()
+* 01-02--UIViewDemo[**UIAPPDelegate**](https://github.com/howill/UI-AppDelegate.git)
+* 03-UIlabelDemo[**UILAbel**](https://github.com/howill/UI_Label.git)
 
 ####20160427
-* 01-UIViewControllerDemo[****]()
-* 02-LoginDemo[****]()
+* 01-UIViewControllerDemo[**ViewController**](https://github.com/Gao18236996670/01-UIViewControllerDemo.git)
+* 02-LoginDemo[**登录**](https://github.com/Gao18236996670/02-LoginDemo.git)
 
 ####20160428
-* 01-LoginDemoWithSegue[****]()
-* 02-代码块传值[****]()
-* 03-代理传值[****]()
-* 04-通知中心传值[****]()
-* 05-UIImageViewDemo[****]()
+* 01-LoginDemoWithSegue[**登录**](https://github.com/zhangning0/20160428-01-LoginDemoWithSegue.git)
+* 02-代码块传值[**代码块传值**](https://github.com/zhangning0/20160428-02--.git)
+* 03-代理传值[**代理传值**](https://github.com/zhangning0/20160428-03--.git)
+* 04-通知中心传值[**通知中心传值**](https://github.com/zhangning0/20160428-04--.git)
+* 05-UIImageViewDemo[**ImageView**](https://github.com/zhangning0/20160428-05-UIImageViewDemo.git)
 
 ####20160429
-* 01-TomCat[****]()
-* 02-ScanImageDemo[****]()
-* 03-ApplicationManagerDemo[****]()
+* 01-TomCat[**Tom猫**](https://github.com/WaitingGrace/TomCat.git)
+* 02-ScanImageDemo[**图片管理器**](https://github.com/WaitingGrace/ScanImageDemo.git)
+* 03-ApplicationManagerDemo[**本地文件管理类**](https://github.com/WaitingGrace/ApplicationManagerDemo.git)
 
 ####20160503
-* 01-ApplicationManagerDemo(XIB)[****]()
-* 02-ApplicationManagerDemo(MVC)[****]()
+* 01-ApplicationManagerDemo(XIB)[**应用管理器 XIB模式**](https://github.com/cuishiqiangshuai/01-ApplicationManagerDemo-XIB-.git)
+* 02-ApplicationManagerDemo(MVC)[**应用管理器MVC模式**](https://github.com/cuishiqiangshuai/02-ApplicationManagerDemo-MVC-.git)
 
 ####20160504
-* 青云猜图[****]()
+* 青云猜图[**青云猜图**](https://github.com/qindongfang/qingyucaitu.git)
 
 ####20160505
-* 青云猜图[****]()
+* 青云猜图[**青云猜图**](https://github.com/Pengmengyu/qingyuncaitu.git)
 
 ####20160506
-* Demo01_UINavigationController[****]()
-* Demo02_UINavigationController_SB[****]()
-* Demo03_UINavigationController_Code[****]()
-* Demo04_UINagationBar[****]()
+* [**(Demo01_UINavigationController  Demo02_UINavigationController_SB  Demo03_UINavigationController_Code   Demo04_UINagationBar)**](https://github.com/fivekong/Foundation-arrayAndDictionary.git)
 
 ####20160509
 * Demo_UITabBarController_Code[**关于TabbarControllers的使用之一**](https://github.com/junwei5di/20160509TabbarController.git)
@@ -179,17 +169,14 @@
 * Weibo01[****]()
 
 ####20160516
-* 01-CustomCell(ContentView)[****]()
-* 02-CustomCell(LayoutSubviews)[****]()
-* 03-CustomCell(XIB)[****]()
-* 04-CustomCell(SB)[****]()
-* 05-索引表视图[****]()
-* 06-编辑表视图[****]()
+* 01-04--CustomCell[**UI-自定义单元格详解**](https://github.com/Sjianye/CustomCell--.git)
+* 05,06-索引,编辑表视图[**UI-编辑索引表视图**](https://github.com/Sjianye/BianJiBiaoShiTu.git)
 
 ####20160517
-* 01-团购[****]()
-* 02-RefreshAndLoadMoreDemo[****]()
-* 03-LOL[****]()
+* 01-团购[**团购1**](https://github.com/qswxsii/01-Group-buying.git)
+* 02-RefreshAndLoadMoreDemo[**下拉刷新和上拉加载更多**](https://github.com/qswxsii/RefreshAndLoadMoreDemo.git)
+* 03-LOL[**LOL**](https://github.com/qswxsii/LOL.git)
+* 04-QQ好友[**QQ好友**](https://github.com/qswxsii/QQfriends.git)
 
 ####20160519
 * Demo01_UISearchBar[****]()
@@ -199,64 +186,67 @@
 * Demo05_AttribuedString[****]()
 
 ####20160520
-* 01-团购[****]()
+* 01-团购[**团购界面**](https://github.com/NilZero/TUANGOU.git)
 
 ####20160521
-* 01-InstagramDemo[****]()
-* 03-LayoutAnimation[****]()
-* 04-PhotoWallDemo1[****]()
-* Weibo[****]()
+* 01-InstagramDemo[**微博内容自动布局**](https://github.com/XTaiLang/InstagramDemo.git)
+* 03-LayoutAnimation[**滚动动画效果**](https://github.com/XTaiLang/LayoutAnimation.git)
+* 04-PhotoWallDemo1[**探探图片墙**](https://github.com/XTaiLang/PhotoWallDemo1.git)
+* Weibo[**微博框架**](https://github.com/XTaiLang/Weibo.git)
 
 ####20160523
-* 01-QYNews(scrollView)[****]()
-* 02-ApplicationManagerWithCollectionView[****]()
-* 03-QYNews(collectionView)[****]()
+* 01-QYNews(scrollView)[**新闻界面滑动布局**](https://github.com/XTaiLang/QYNews-scrollView-.git)
+* 02-ApplicationManagerWithCollectionView[**九宫格布局**](https://github.com/XTaiLang/ApplicationManagerWithCollectionView.git)
+* 03-QYNews(collectionView)[**新闻界面滑动布局2**](https://github.com/XTaiLang/QYNews.git)
 
 ####20160524
-* 01-PickerViewDemo[****]()
+* 01-PickerViewDemo[**PickerView与老虎机**](https://github.com/huamelooon/UI-PickerView.git)
 
 ####20160526
-* Weibo[****]()
+* Weibo[**weibo-初步框架**](https://github.com/ldpanda/weibo.git)
 
 ####20160528
-* Weibo[****]()
+* Weibo[**微博**](https://github.com/zhoukuangli/weibo.git)
+
+####20160530
+* 公钥私钥加密[**公钥私钥加密**](https://github.com/xiaochao910218/Public-and-private-key.git)
 
 ####20160531
-* 01-触摸demo[****]()
-* 02-触摸demo2[****]()
-* 03-触摸练习[****]()
+* 01-触摸demo[**UITouch1**](https://github.com/howill/Touch_demo.git)
+* 02-触摸demo2[**UITouch2**](https://github.com/howill/Touch_demo2.git)
+* 03-触摸练习[**UITouch3**](https://github.com/howill/Touch_demo3.git)
 
 ####20160602
-* 01-UIGestureRecognizer[****]()
-* 02-手势识别器练习[****]()
-* 03-KVODemo[****]()
+* 01-UIGestureRecognizer[**手势**](https://github.com/Gao18236996670/01-UIGestureRecognizer.git)
+* 02-手势识别器练习[**手势识别器**](https://github.com/Gao18236996670/02--.git)
+* 03-KVODemo[**键值观察**](https://github.com/Gao18236996670/03-KVODemo.git)
 
 ####20160603
-* 01-KVO练习[****]()
+* 01-KVO练习[**KVO练习**](https://github.com/zhangning0/01-KVO-.git)
 
 ####20160604
-* 01-NSURLSessionDataTaskDemo[****]()
-* 02-NSURLSeesionDataTaskPOST[****]()
-* 03-DownLoadTaskDemo[****]()
+* 01-NSURLSessionDataTaskDemo[**NSURLSession GET请求**](https://github.com/WaitingGrace/NSURLSessionDataTaskDemo.git)
+* 02-NSURLSeesionDataTaskPOST[**NSURLSeesion POST请求**](https://github.com/WaitingGrace/NSURLSeesionDataTaskPOST.git)
+* 03-DownLoadTaskDemo[**下载**](https://github.com/WaitingGrace/DownLoadTaskDemo.git)
 
 ####20160606
-* 02-JSONDemo[****]()
-* Weibo[****]()
+* 02-JSONDemo[**JSON**](https://github.com/cuishiqiangshuai/02-JSONDemo.git)
+* Weibo[**用JSON格式请求数据，更改微博的数据**](https://github.com/cuishiqiangshuai/Weibo.git)
 
 ####20160607
-* Weibo[****]()
+* Weibo[**微博**](https://github.com/qindongfang/weibo.git)
 
 ####20160608
-* 01-AFnetWorking[****]()
-* Weibo[****]()
+* 01-AFnetWorking[**第三方库AFNetWorking**](https://github.com/Pengmengyu/20160608afnetWorking.git)
+* Weibo[**微博**](https://github.com/Pengmengyu/Weibo.git)
 
 ####20160612
-* 01-NSThtreadDemo[****]()
-* 02-NSoperationDemo[****]()
-* 03-GCDDemo[****]()
-* 04-BarrierDemo[****]()
-* 05-单例[****]()
-* 06-FinalDemo[****]()
+* 01-NSThtreadDemo[**线程**](https://github.com/cuishiqiangshuai/01-NSThtreadDemo.git)
+* 02-NSoperationDemo[**队列NSOperation**](https://github.com/cuishiqiangshuai/02-NSoperationDemo.git)
+* 03-GCDDemo[**GCD**](https://github.com/cuishiqiangshuai/03-GCDDemo.git)
+* 04-BarrierDemo[**屏障barrier**](https://github.com/cuishiqiangshuai/BarrierDemo.git)
+* 05-单例[**单例**](https://github.com/cuishiqiangshuai/05--.git)
+* 06-FinalDemo[**final 串行队列**](https://github.com/cuishiqiangshuai/FinalDemo.git1)
 
 ####20160613
 * 01-sandboxDemo[**关于沙盒在数据持久化方面的使用**](https://github.com/junwei5di/20160613SandBoxDemo.git)
@@ -277,6 +267,7 @@
 
 ####一些课程中的项目
 * [**Tom猫**](https://github.com/DeadAndLife/weibo.git)
-* [**青云猜图**]()
+* [**门禁系统**]()
+* [**青云猜图**](https://github.com/Pengmengyu/qingyuncaitu.git)（知识点包括九宫格布局+图片浏览器）
 * [**微信**]()
-* [**微博终极版**](https://github.com/DeadAndLife/weibo.git)
+* [**微博终极版**](https://github.com/DeadAndLife/weibo.git)（目前未完成）
