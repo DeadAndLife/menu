@@ -22,12 +22,12 @@
 
 ####20160405
 * Foundation -(NSMutableArray)[**Foundation框架之可变数组**](https://github.com/DeadAndLife/Foundation---NSMutableArray-.git)
-* Foundation-(NSNumber)[****]()
-* Foundation-(NSValue)[****]()
-* Foundation-NSDate[****]()
-* Foundation-NSDictionary[****]()
-* Foundation-NSNull[****]()
-* Foundation-NSSet[****]()
+* Foundation-(NSNumber)[**对于NSNumber类型的数据的使用和创建规则**](https://github.com/LoveEunice/Foundation--NSNumber-.git)
+* Foundation-(NSValue)[**对Foundation-(NSValue)中NSValue类型数据的使用和代码解析**](https://github.com/LoveEunice/Foundation--NSValue-.git)
+* Foundation-NSDate[**对Foundation-NSDate框架的NSDate数据类型的创建和使用的代码解析**](https://github.com/LoveEunice/Foundation-NSDate.git)
+* Foundation-NSDictionary[**对字典类的创建使用规则的代码解析**](https://github.com/LoveEunice/Foundation-NSDictionary.git)
+* Foundation-NSNull[**对NSNull数据类型的解析和使用规则代码演示**](https://github.com/LoveEunice/Foundation-NSNull.git)
+* Foundation-NSSet[**对NNSSet数据类型的代码解析**](https://github.com/LoveEunice/Foundation-NSSet.git)
 	
 ####20160406
 * Foundation-复杂数组和字典(Plist)[**Foundation框架之Plist**](https://github.com/DeadAndLife/Foundation-Plist.git)
@@ -151,10 +151,10 @@
 * 05-相册[**关于相册的简单实现Demo**](https://github.com/luckyqiqi/0501-Photo-album.git)
 
 ####20160512
-* 01-相册(mvc)[****]()
-* 02-相册(复用)[****]()
-* 04-UIPageViewControllerDemo2[****]()
-* PageBaseApplication[****]()
+* 01-相册(mvc)[**相册（mvc模式）**](https://github.com/DeadAndLife/Picture-MVC.git)
+* 02-相册(复用)[**相册（复用-用三个滚动视图实现多个滚动界面效果）**](https://github.com/DeadAndLife/Picture-reuse.git)
+* 04-UIPageViewControllerDemo2[**分页视图控制器（继承自ScollView）**](https://github.com/DeadAndLife/UIPageViewController.git)
+* PageBaseApplication[**日历**](https://github.com/DeadAndLife/PageBaseApplication.git)
 
 ####20160513
 * 02-SampleControlDemo[**小控件(UISwitch,UIProgressView,UISlider,UISegmentedControl,UIStepper,UITextView)**](https://github.com/DeadAndLife/SmallControls.git)
