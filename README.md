@@ -39,14 +39,13 @@
 * OC内存管理（自动释放池）[**OC-内存管理之自动释放池**](https://github.com/DeadAndLife/OC-autoreleasePool.git)
 
 ####20160408
-* OC-初始化[****]()
-* OC-内存管理（ARC）[****]()
-* OC-属性(@property ARC)[****]()
-* OC-属性(@property)[****]()
+* OC-初始化[****]
+* OC-内存管理（ARC）[****]
+* OC-属性(@property ARC)[****]
+* OC-属性(@property)[****]
 
 ####20160409
-* OC- 正式协议 001[**OC-正式协议**](https://github.com/Sjianye/Agreement.git)
-* OC- 正式协议与委托[****]()
+* OC- 正式协议与委托 001[**OC-正式协议**](https://github.com/Sjianye/Agreement.git)
 * OC-(copy/mutableCopy)[**OC-深浅拷贝**](https://github.com/Sjianye/OC-copy-muteCopy.git)
 * OC-多态+id类型[**OC-多态简单示例+id类型简述**](https://github.com/Sjianye/OC--id-Demo.git)
 * OC-非正式协议[**OC-非正式协议**](https://github.com/Sjianye/OC--.git)
@@ -58,10 +57,10 @@
 * OC-KVC(快速操作)[**KVC快速操作**](https://github.com/qswxsii/OC-KVC2.git)
 
 ####20160412
-* OC-函数指针回顾[****]()
-* OC-正则表达式[****]()
-* OC-blcok对变量的用法[****]()
-* OC-Block块[****]()
+* OC-函数指针回顾[****]
+* OC-正则表达式[****]
+* OC-blcok对变量的用法[****]
+* OC-Block块[****]
 
 ####20160414
 * OC-简单文件管理(NSFileManager)[**OC-简单文件管理(NSFileManager)**](https://github.com/CultureCheng/FileManger.git)
@@ -74,9 +73,8 @@
 ####20160415
 * OC （串讲）-NSDate[**OC （串讲）-NSDate**](https://github.com/CultureCheng/NSDate.git)
 * OC 串讲 -（继承VS复合）[**OC 串讲 -（继承VS复合）**](https://github.com/CultureCheng/subclass.git)
-* OC 串讲-（数值封装）[**OC 串讲-（数值封装）**]()
-* OC 串讲-（协议）[**OC 串讲-（协议）**](https://github.com/CultureCheng/xieyi.git
-)
+* OC 串讲-（数值封装）[**OC 串讲-（数值封装）**]
+* OC 串讲-（协议）[**OC 串讲-（协议）**](https://github.com/CultureCheng/xieyi.git)
 * OC 串讲（类别VS扩展）[**OC 串讲-（类别）**](https://github.com/CultureCheng/leibie.git)
 * OC(串讲)-类方法+属性[**OC(串讲)-类方法+属性**](https://github.com/CultureCheng/Status.git)
 
@@ -95,7 +93,7 @@
 * Copy&Strong [**copy&strong**](https://github.com/ldpanda/copy-strong.git)
 
 ####20160421
-* git相关操作 [****]()
+* git相关操作 [****]
 
 ####20160422
 * TomCat[**Tom猫**](https://github.com/zhoukuangli/TomCat.git)
@@ -161,12 +159,12 @@
 * Weibo[**微博之框架及引导页**](https://github.com/DeadAndLife/weibo-guide.git)
 
 ####20160514
-* 01-UITableViewDemo[****]()
-* 02-UITableViewStructure[****]()
-* 03-UITableViewControllerDemo[****]()
-* 04-UITableViewCellDemo[****]()
-* 05-CellPropertyDemo[****]()
-* Weibo01[****]()
+* 01-UITableViewDemo[****]
+* 02-UITableViewStructure[****]
+* 03-UITableViewControllerDemo[****]
+* 04-UITableViewCellDemo[****]
+* 05-CellPropertyDemo[****]
+* Weibo01[****]
 
 ####20160516
 * 01-04--CustomCell[**UI-自定义单元格详解**](https://github.com/Sjianye/CustomCell--.git)
@@ -179,11 +177,11 @@
 * 04-QQ好友[**QQ好友**](https://github.com/qswxsii/QQfriends.git)
 
 ####20160519
-* Demo01_UISearchBar[****]()
-* Demo02_UISearchController[****]()
-* Demo03_UIWebview[****]()
-* Demo04_UITextView[****]()
-* Demo05_AttribuedString[****]()
+* Demo01_UISearchBar[****]
+* Demo02_UISearchController[****]
+* Demo03_UIWebview[****]
+* Demo04_UITextView[****]
+* Demo05_AttribuedString[****]
 
 ####20160520
 * 01-团购[**团购界面**](https://github.com/NilZero/TUANGOU.git)
@@ -266,9 +264,12 @@
 * 01-数据持久化作业[**数据持久化作业**](https://github.com/DeadAndLife/homework-DataPersistence.git)
 * 02-weibo[**微博之登录登出(令牌本地化)**](https://github.com/DeadAndLife/weibo-AccessToken.git)
 
+####20160621
+* 微博之[**下拉刷新与上拉加载更多及本地化**](https://github.com/DeadAndLife/weibo-refresh.git)
+
 ####一些课程中的项目
 * [**Tom猫**](https://github.com/DeadAndLife/weibo.git)
-* [**门禁系统**]()
+* [**门禁系统**]
 * [**青云猜图**](https://github.com/Pengmengyu/qingyuncaitu.git)（知识点包括九宫格布局+图片浏览器）
-* [**微信**]()
+* [**微信**]
 * [**微博终极版**](https://github.com/DeadAndLife/weibo.git)（目前未完成）
