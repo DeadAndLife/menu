@@ -264,6 +264,7 @@
 
 ####20160620
 * 01-数据持久化作业[**数据持久化作业**](https://github.com/DeadAndLife/homework-DataPersistence.git)
+* 02-weibo[**微博之登录登出(令牌本地化)**](https://github.com/DeadAndLife/weibo-AccessToken.git)
 
 ####一些课程中的项目
 * [**Tom猫**](https://github.com/DeadAndLife/weibo.git)
