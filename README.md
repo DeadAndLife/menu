@@ -268,8 +268,8 @@
 * 微博之[**下拉刷新与上拉加载更多及本地化**](https://github.com/DeadAndLife/weibo-refresh.git)
 
 ####一些课程中的项目
-* [**Tom猫**](https://github.com/DeadAndLife/weibo.git)
-* [**门禁系统**]
-* [**青云猜图**](https://github.com/Pengmengyu/qingyuncaitu.git)（知识点包括九宫格布局+图片浏览器）
-* [**微信**]
-* [**微博终极版**](https://github.com/DeadAndLife/weibo.git)（目前未完成）
+* [**Tom猫**](https://github.com/hoshealee/TomCat-)
+* [**门禁系统**](https://github.com/hoshealee/OC-MenJinXiTong-)
+* [**青云猜图**](https://github.com/hoshealee/QYCaiTu-)（知识点包括九宫格布局+图片浏览器）
+* [**微信**](https://github.com/hoshealee/WeXin-WeChat-)
+* [**微博终极版**](https://github.com/hoshealee/WeiBo)（目前未完成）
