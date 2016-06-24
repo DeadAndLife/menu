@@ -267,6 +267,16 @@
 ####20160621
 * 微博之[**下拉刷新与上拉加载更多及本地化**](https://github.com/DeadAndLife/weibo-refresh.git)
 
+####20160623
+* [**播放系统声音**](https://github.com/DeadAndLife/SystemSounds.git)
+* [**02-AVAudioPlayer**](https://github.com/DeadAndLife/AVAudioPlayer.git)
+* [**03-AvRecordDemo**](https://github.com/DeadAndLife/AvRecordDemo.git)
+* [**03-RecordPlayer**](https://github.com/DeadAndLife/RecordPlayer.git)
+
+####20160624
+* [****]()
+
+
 ####一些课程中的项目
 * [**Tom猫**](https://github.com/hoshealee/TomCat-)
 * [**门禁系统**](https://github.com/hoshealee/OC-MenJinXiTong-)
