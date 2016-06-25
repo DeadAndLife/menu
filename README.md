@@ -274,7 +274,8 @@
 * [**03-RecordPlayer**](https://github.com/DeadAndLife/RecordPlayer.git)
 
 ####20160624
-* [****]()
+* [**MpMoviePlayerDemo**](https://github.com/DeadAndLife/MpMoviePlayerDemo.git)
+* [**AvPlayerDemo**](https://github.com/DeadAndLife/AvPlayerDemo.git)
 
 
 ####一些课程中的项目
