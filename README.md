@@ -57,10 +57,10 @@
 * OC-KVC(快速操作)[**KVC快速操作**](https://github.com/qswxsii/OC-KVC2.git)
 
 ####20160412
-* OC-函数指针回顾[****]
-* OC-正则表达式[****]
-* OC-blcok对变量的用法[****]
-* OC-Block块[****]
+* OC-函数指针回顾[**OC-函数指针回顾**](https://github.com/xabodog/sm/tree/master/20160412/OC-函数指针回顾)
+* OC-正则表达式[**OC-正则表达式**](https://github.com/xabodog/sm/tree/master/20160412/OC-正则表达式)
+* OC-blcok对变量的用法[**OC-blcok对变量的用法**](https://github.com/xabodog/sm/tree/master/20160412/OC-blcok对变量的用法)
+* OC-Block块[**OC-Block块**](https://github.com/xabodog/sm/tree/master/20160412/OC-Block块)
 
 ####20160414
 * OC-简单文件管理(NSFileManager)[**OC-简单文件管理(NSFileManager)**](https://github.com/CultureCheng/FileManger.git)
@@ -177,11 +177,11 @@
 * 04-QQ好友[**QQ好友**](https://github.com/qswxsii/QQfriends.git)
 
 ####20160519
-* Demo01_UISearchBar[****]
-* Demo02_UISearchController[****]
-* Demo03_UIWebview[****]
-* Demo04_UITextView[****]
-* Demo05_AttribuedString[****]
+* Demo01_UISearchBar[**01.UISearchBar**](https://github.com/xabodog/0519/tree/master/Demo01_UISearchBar)
+* Demo02_UISearchController[**02_UISearchController**](https://github.com/xabodog/0519/tree/master/Demo02_UISearchController)
+* Demo03_UIWebview[**03_UIWebview**](https://github.com/xabodog/0519/tree/master/Demo03_UIWebview)
+* Demo04_UITextView[**04_UITextView**](https://github.com/xabodog/0519/tree/master/Demo04_UITextView)
+* Demo05_AttribuedString[**05_AttribuedString**](https://github.com/xabodog/0519/tree/master/Demo05_AttribuedString)
 
 ####20160520
 * 01-团购[**团购界面**](https://github.com/NilZero/TUANGOU.git)
@@ -277,6 +277,11 @@
 * [**MpMoviePlayerDemo**](https://github.com/DeadAndLife/MpMoviePlayerDemo.git)
 * [**AvPlayerDemo**](https://github.com/DeadAndLife/AvPlayerDemo.git)
 
+####20160625
+* [**01-XMLParseDemo**](https://github.com/DeadAndLife/XMLParseDemo.git)
+
+####20160627
+* [**AutoRowHeight**](https://github.com/DeadAndLife/AutoRowHeight.git)
 
 ####一些课程中的项目
 * [**Tom猫**](https://github.com/hoshealee/TomCat-)
