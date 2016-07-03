@@ -283,6 +283,19 @@
 ####20160627
 * [**AutoRowHeight**](https://github.com/DeadAndLife/AutoRowHeight.git)
 
+####20160628
+* [**微博官方SDK使用**](https://github.com/DeadAndLife/WEIBO_IOS_SDK_DEMO.git)
+* [**a-b应用之间的通信**](ttps://github.com/DeadAndLife/A-B.git)
+
+####20160630
+* [**第三方ShareSDK**](https://github.com/DeadAndLife/ShareSDK.git)
+
+####20160701
+* [**LeanCloud注册登录即时通讯**](https://github.com/DeadAndLife/LeanCloud.git)
+
+####20160702
+* [**QRCode二维码扫描**](https://github.com/DeadAndLife/QRCode.git)
+
 ####一些课程中的项目
 * [**Tom猫**](https://github.com/hoshealee/TomCat-)
 * [**门禁系统**](https://github.com/hoshealee/OC-MenJinXiTong-)
