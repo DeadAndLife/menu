@@ -2,8 +2,6 @@
 目录文档
 
 ####20160331
-
-
 * drawShape(C实现)	 [**用C语言实现画图**](https://github.com/junwei5di/20160331Demos.git)
 * drawShape(oc method2) [**用OC类的成员变量和对象方法画图**](https://github.com/junwei5di/20160331Demos3.git) 
 * drawShape(OC复合) [**用OC类的复合画图**](https://github.com/junwei5di/20160331Demos1.git)
@@ -295,6 +293,22 @@
 
 ####20160702
 * [**QRCode二维码扫描**](https://github.com/DeadAndLife/QRCode.git)
+
+####20160704
+* [**GPS使用**](https://github.com/DeadAndLife/CoreLocation.git)
+* [**地图视图<MapKit>**](https://github.com/DeadAndLife/MapViewDemo.git)
+
+####20160705
+* [**运动轨迹实现**](https://github.com/DeadAndLife/RunPath.git)
+* [**使用百度SDK实现运动**](https://github.com/DeadAndLife/RunPathBaidu.git)
+
+####20160707
+* [**本地通知**](https://github.com/DeadAndLife/LocalNotification.git)
+* [**网络远端通知**](https://github.com/DeadAndLife/PushDemo.git)
+
+####20160708
+* [**Jpush实现远端推送**](https://github.com/DeadAndLife/JpushDemo.git)
+* [****]
 
 ####一些课程中的项目
 * [**Tom猫**](https://github.com/hoshealee/TomCat-)
