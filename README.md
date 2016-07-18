@@ -71,7 +71,6 @@
 ####20160415
 * OC （串讲）-NSDate[**OC （串讲）-NSDate**](https://github.com/CultureCheng/NSDate.git)
 * OC 串讲 -（继承VS复合）[**OC 串讲 -（继承VS复合）**](https://github.com/CultureCheng/subclass.git)
-* OC 串讲-（数值封装）[**OC 串讲-（数值封装）**]
 * OC 串讲-（协议）[**OC 串讲-（协议）**](https://github.com/CultureCheng/xieyi.git)
 * OC 串讲（类别VS扩展）[**OC 串讲-（类别）**](https://github.com/CultureCheng/leibie.git)
 * OC(串讲)-类方法+属性[**OC(串讲)-类方法+属性**](https://github.com/CultureCheng/Status.git)
@@ -131,7 +130,7 @@
 * 青云猜图[**青云猜图**](https://github.com/Pengmengyu/qingyuncaitu.git)
 
 ####20160506
-* [**(Demo01_UINavigationController  Demo02_UINavigationController_SB  Demo03_UINavigationController_Code   Demo04_UINagationBar)**](https://github.com/fivekong/Foundation-arrayAndDictionary.git)
+* [**(Demo01-UINavigationController  Demo02_UINavigationController-SB  Demo03_UINavigationController-Code   Demo04_UINagationBar)**](https://github.com/fivekong/Foundation-arrayAndDictionary.git)
 
 ####20160509
 * Demo_UITabBarController_Code[**关于TabbarControllers的使用之一**](https://github.com/junwei5di/20160509TabbarController.git)
@@ -314,9 +313,16 @@
 * [**Socket编程之TCP2**](https://github.com/DeadAndLife/TCPSocket.git)
 * [**Socket编程之UDP**](https://github.com/DeadAndLife/SocketUDP.git)
 
+####20160711 & 20160712
+
+* [**XMPP实现即时通讯**](https://github.com/DeadAndLife/XMPP.git)
+
+####20160714
+* [****]
+
 ####一些课程中的项目
 * [**Tom猫**](https://github.com/hoshealee/TomCat-)
 * [**门禁系统**](https://github.com/hoshealee/OC-MenJinXiTong-)
 * [**青云猜图**](https://github.com/hoshealee/QYCaiTu-)（知识点包括九宫格布局+图片浏览器）
 * [**微信**](https://github.com/hoshealee/WeXin-WeChat-)
-* [**微博终极版**](https://github.com/hoshealee/WeiBo)（目前未完成）
+* [**微博终极版**](https://github.com/hoshealee/WeiBo)
