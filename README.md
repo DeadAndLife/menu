@@ -317,7 +317,7 @@
 
 * [**XMPP实现即时通讯**](https://github.com/DeadAndLife/XMPP.git)
 
-####20160714-今--20160730
+####20160714-20160730
 * [**约吧项目**](https://github.com/DeadAndLife/YueBa.git)
 
 ####20160731
@@ -328,6 +328,34 @@
 
 ####20160802
 * [**swift第三天**](https://github.com/DeadAndLife/swift03.git)
+
+####20160804
+* [**swift第四天**](https://github.com/DeadAndLife/swift04.git)
+
+####20160805
+* [**swift第五天**](https://github.com/DeadAndLife/swift05.git)
+
+####20160806
+* [**swift第六天**](https://github.com/DeadAndLife/swift06.git)
+
+####20160808
+* [**iOS9新特性**](https://github.com/DeadAndLife/new-traits.git)
+
+####20160809
+* [**支付宝和ping++平台集成**](https://github.com/DeadAndLife/ping-AndZhifu.git)
+
+####20160811
+* [**绘制与贝塞尔曲线**](https://github.com/DeadAndLife/BezierPath.git)
+
+####20160812
+* [**绘制渐变图片与水印**](https://github.com/DeadAndLife/draw.git)
+
+####20160813
+* [**CALayer与CoreAnimation**](https://github.com/DeadAndLife/CALayerAndCoreAnimation.git)
+
+####20160814-15
+* [**数据结构与算法**](https://github.com/DeadAndLife/ds.git)
+
 
 ####一些课程中的项目
 * [**Tom猫**](https://github.com/hoshealee/TomCat-)
