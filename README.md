@@ -363,3 +363,4 @@
 * [**青云猜图**](https://github.com/hoshealee/QYCaiTu-)（知识点包括九宫格布局+图片浏览器）
 * [**微信**](https://github.com/hoshealee/WeXin-WeChat-)
 * [**微博终极版**](https://github.com/hoshealee/WeiBo)
+* [**约吧终极版**](https://github.com/DeadAndLife/YUEBA-.git)
