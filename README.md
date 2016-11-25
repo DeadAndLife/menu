@@ -374,4 +374,4 @@
 * [**swift**](http://pan.baidu.com/s/1jIz3Xps)
 * [**配置文件**](https://pan.baidu.com/s/1mhXGwUs)
 
-* [**makeDown文档编辑工具**](https://pan.baidu.com/s/1boS9arH)
+* [**MacDown文档编辑工具**](https://pan.baidu.com/s/1boS9arH)官方请[点这里](http://macdown.uranusjr.com/)
